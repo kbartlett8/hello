@@ -2,7 +2,8 @@
  * Creator: Kayla Bartlett
  * Date: 8/29/2024
  *
- * A program that prints out my name, Kayla Bartlett.
+ * A program that prints out my name and my major.
+ *
  *
  */
 #include <stdlib.h>
@@ -10,8 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World, I'm Kayla Bartlett!\n");
-  printf("My major is Computer Engineering.\n");
+  printf("Hello World, I'm Kayla Bartlett!!!\n");
+  printf("My major is Computer Engineering!\n");
 
   return 0;
 }
